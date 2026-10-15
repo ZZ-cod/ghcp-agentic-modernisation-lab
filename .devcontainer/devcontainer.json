@@ -20,7 +20,8 @@
       "installBicep": true
     },
     "ghcr.io/devcontainers/features/github-cli:1": {},
-    "ghcr.io/azure/azure-dev/azd:latest": {}
+    "ghcr.io/azure/azure-dev/azd:latest": {},
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
 
   // Configure tool-specific properties.
